@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonicaV84
-- 👀 I’m interested in web developent
+- 👀 I’m interested in data science
 - 📫 How to reach me at monicavrd84@gmail.com
 
 <!---
